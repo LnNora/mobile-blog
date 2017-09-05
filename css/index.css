@@ -1,0 +1,27 @@
+
+	.main{
+		font-family: "Tahoma",lora;
+		background-image: url(../images/cat.jpeg);
+		background-repeat: no-repeat;
+		background-size:cover;
+		color: white;
+	}
+	.text{
+		padding:45% 0 0 10%;
+
+	}
+	p{
+		font-size:2rem;
+		font-weight: bold;
+	}
+	.text h1{
+		font-size: 6rem;
+		margin:0;
+	}
+	.text p:last-child{
+		color: black;
+		background-color: white;
+		display: inline-block;
+		padding:1rem 2rem;
+	}
+	
