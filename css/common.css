@@ -25,15 +25,14 @@ html,body{
 		margin:0 0.5rem;
 		background-color: #bfc1c3;
 	}
-	.dots span:first-child{
-		background-color: black;
-	}
+	
 
 	.chat img{
 		min-width:3.5rem;
 	}
 	 a{
-	 	text-decoration: none
+	 	text-decoration: none;
+
 	 }
 	 a:visited{
 	 	color: black;
