@@ -1,0 +1,21 @@
+.message{
+	display: flex;
+	align-items: flex-start;
+}
+.pic{border: solid 1px orange;
+	border-radius: 5rem;
+	width:130px;
+	
+
+}
+.m_content{border: solid 1px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between; 
+}
+.information{border: solid 1px;
+	display: flex;
+}
+
+.name,.time{border:solid red;
+	margin: 0;}
