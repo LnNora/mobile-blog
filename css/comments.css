@@ -17,6 +17,23 @@ h1{
 	margin:0.8rem auto;
 	margin-bottom: 1rem;
 }
+
+.x{
+	padding-right: 1rem;
+}
+.x span{
+	display: inline-block;
+	border: solid 0.1px ;
+	height:10px;
+	transform-origin: 55% 55%;
+}
+
+.x span:first-of-type{
+	transform: rotate(45deg);
+}
+.x span:last-of-type{
+	transform: rotate(-45deg);
+}
 .message{
 	display: flex;
 	align-items: flex-start;
